@@ -1,0 +1,42 @@
+.form-select {
+    display: inline;
+    width: 50vw;
+    margin-left: 5vw;
+}
+
+#selectores{
+    display: flex;
+    justify-content: start;
+    padding: 5vw;
+    justify-items: first baseline;
+    
+}
+
+.fila{
+    display: flex;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    align-content: start;
+    width: 95vw;
+
+}
+.card{
+    margin: 1vw;
+
+}
+
+.btn-primary{
+    background-color: red;
+    box-shadow: 50px black;
+    position: relative;
+    left: 30%;
+    border-color:red;
+}
+
+.visible{
+    display: block;
+}
+
+.invisible{
+    display: none;
+}
